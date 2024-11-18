@@ -10,3 +10,4 @@ button.addEventListener("click", () => {
   document.body.style.backgroundColor = newColor;
   colorCode.textContent = newColor;
 });
+}
